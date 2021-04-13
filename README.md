@@ -1,2 +1,0 @@
-# NursingHomeProject
-NursingHome Application
